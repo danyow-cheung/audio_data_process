@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=ZqpSb5p1xQo
+
 
 # 第三方库
 
@@ -87,3 +87,8 @@ code ref:https://www.kaggle.com/code/robikscube/working-with-audio-in-python/not
 
 # 语音识别全流程
 https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
+
+
+# [Hands On Signal Processing with Python](https://towardsdatascience.com/hands-on-signal-processing-with-python-9bda8aad39de)
+basic operations of signal processing, namely the frequency analysis, the noise filtering and the amplitude spectrum extraction techniques.
+信號處理的基本操作，即頻率分析、噪聲過濾和幅度譜提取技術。
