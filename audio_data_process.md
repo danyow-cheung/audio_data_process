@@ -92,3 +92,12 @@ https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
 # [Hands On Signal Processing with Python](https://towardsdatascience.com/hands-on-signal-processing-with-python-9bda8aad39de)
 basic operations of signal processing, namely the frequency analysis, the noise filtering and the amplitude spectrum extraction techniques.
 信號處理的基本操作，即頻率分析、噪聲過濾和幅度譜提取技術。
+
+
+
+
+
+# [Denoising Data with FFT Python](https://www.youtube.com/watch?v=s2K1JfNR7Sc)去噪数据使用FFT
+
+
+
